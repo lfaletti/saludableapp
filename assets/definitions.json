@@ -1,0 +1,1526 @@
+{
+  "definitions": [
+    {
+      "name": "Calorías",
+      "description": "La unidad de medida de energía. Se encuentra en alimentos y bebidas.",
+      "additional_names": [
+        "Valor Calórico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Grasas totales",
+      "description": "Fuente concentrada de energía. Se encuentran en aceites, mantequilla, etc.",
+      "additional_names": [
+        "Ácidos Grasos"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Hidratos de Carbono",
+      "description": "Principales fuentes de energía. Se encuentran en pan, arroz, frutas, etc.",
+      "additional_names": [
+        "Carbohidratos"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Fibras",
+      "description": "Importantes para la digestión. Se encuentran en frutas, verduras, granos enteros, etc.",
+      "additional_names": [
+        "Fibra Dietética"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Vitaminas",
+      "description": "Compuestos esenciales para diversas funciones corporales. Se encuentran en frutas, verduras, etc.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Minerales",
+      "description": "Elementos esenciales para la salud. Se encuentran en alimentos variados.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 296",
+      "description": "Ácido utilizado como regulador de acidez. Máximo uso de 4 g/L.",
+      "additional_names": [
+        "Ácido Málico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 270",
+      "description": "Ácido utilizado como regulador de acidez. Máximo uso de 4 g/L.",
+      "additional_names": [
+        "Ácido Láctico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 334",
+      "description": "Ácido tartárico utilizado como regulador de acidez. Máximo uso de 4 g/L.",
+      "additional_names": [
+        "Ácido Tartárico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 330",
+      "description": "Ácido cítrico utilizado como regulador de acidez. Máximo uso de 4 g/L. Límite residual de 1g/L.",
+      "additional_names": [
+        "Ácido Cítrico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 336",
+      "description": "Sal de potasio del ácido tartárico utilizado como regulador de acidez.",
+      "additional_names": [
+        "Potasio L(+) Tartrato"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 336i",
+      "description": "Sal potásica del ácido tartárico utilizada como regulador de acidez.",
+      "additional_names": [
+        "Tartrato Ácido de Potasio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 170",
+      "description": "Sal de calcio utilizada como regulador de acidez.",
+      "additional_names": [
+        "Carbonato de Calcio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 501ii",
+      "description": "Bicarbonato de potasio utilizado como regulador de acidez.",
+      "additional_names": [
+        "Bicarbonato de Potasio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 354",
+      "description": "Tartrato de calcio utilizado como regulador de acidez. Máximo uso de 200 g/L.",
+      "additional_names": [
+        "Tartrato de Calcio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 501i",
+      "description": "Carbonato de potasio utilizado como regulador de acidez.",
+      "additional_names": [
+        "Carbonato de Potasio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 516",
+      "description": "Sulfato de calcio utilizado como regulador de acidez. Máximo uso de 2 g/L.",
+      "additional_names": [
+        "Sulfato de Calcio"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 300",
+      "description": "Ácido ascórbico utilizado como conservante. Máximo uso de 0.25 g/L. Límite residual de 300 mg/L.",
+      "additional_names": [
+        "Ácido Ascórbico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 315",
+      "description": "Ácido erítrico utilizado como conservante. Máximo uso de 0.25 g/L. Límite residual de 300 mg/L.",
+      "additional_names": [
+        "Ácido Erítrico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 200",
+      "description": "Ácido sórbico utilizado como conservante. Máximo uso de 0.2 g/L.",
+      "additional_names": [
+        "Ácido Sórbico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Vitamina A",
+      "description": "La vitamina A es esencial para la visión, el sistema inmunológico y la salud de la piel. Se encuentra en alimentos como zanahorias, espinacas y hígado.",
+      "additional_names": [
+        "Retinol"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Calcio",
+      "description": "El calcio es un mineral crucial para la formación de huesos y dientes fuertes. Se encuentra en productos lácteos, brócoli y almendras.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Proteínas",
+      "description": "Las proteínas son nutrientes esenciales para el crecimiento y reparación de tejidos. Se encuentran en alimentos como carne, pescado, huevos y legumbres.",
+      "additional_names": [
+        "Aminoácidos"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Fibra Dietética",
+      "description": "La fibra dietética es una parte de los alimentos de origen vegetal que el cuerpo no puede digerir. Ayuda a mantener un sistema digestivo saludable.",
+      "additional_names": [
+        "Fibra Alimentaria"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Ácidos Grasos Omega-3",
+      "description": "Los ácidos grasos omega-3 son grasas saludables que se encuentran en algunos pescados y alimentos vegetales. Benefician la salud del corazón y el cerebro.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Hierro",
+      "description": "El hierro es un mineral esencial para transportar el oxígeno en la sangre y para otras funciones corporales. Se encuentra en carne roja, espinacas y legumbres.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Vitamina C",
+      "description": "La vitamina C, también conocida como ácido ascórbico, es una vitamina hidrosoluble que actúa como antioxidante. Se encuentra en cítricos, fresas y pimientos.",
+      "additional_names": [
+        "Ácido Ascórbico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Zinc",
+      "description": "El zinc es un mineral esencial para el sistema inmunológico y la síntesis de proteínas. Se encuentra en carnes, nueces y legumbres.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Glucosa",
+      "description": "La glucosa es un azúcar simple que es una fuente importante de energía para el cuerpo. Se obtiene de los alimentos que consumimos, especialmente carbohidratos.",
+      "additional_names": [
+        "Azúcar en Sangre"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Vitamina D",
+      "description": "La vitamina D es crucial para la salud ósea y la absorción de calcio. Se obtiene principalmente de la exposición al sol y algunos alimentos como pescado graso y leche fortificada.",
+      "additional_names": [
+        "Calciferol"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Ácido Fólico",
+      "description": "El ácido fólico, o vitamina B9, es esencial para el desarrollo del sistema nervioso del feto durante el embarazo. Se encuentra en alimentos como espinacas y legumbres.",
+      "additional_names": [
+        "Vitamina B9"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Potasio",
+      "description": "El potasio es un mineral importante para la función muscular y la salud del corazón. Se encuentra en plátanos, naranjas, yuca y espinacas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Magnesio",
+      "description": "El magnesio es esencial para la función muscular, nerviosa y ósea. Se encuentra en frutos secos, granos enteros y vegetales de hojas verdes.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Vitamina E",
+      "description": "La vitamina E es un antioxidante que protege las células del daño. Se encuentra en aceites vegetales, nueces y espinacas.",
+      "additional_names": [
+        "Tocoferol"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Sodio",
+      "description": "El sodio es un mineral esencial para el equilibrio de líquidos en el cuerpo. Se encuentra en la sal y muchos alimentos procesados.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 300",
+      "description": "El INS 300, o ácido ascórbico, es un conservante antioxidante utilizado para prevenir la oxidación en alimentos y bebidas.",
+      "additional_names": [
+        "Ácido Ascórbico"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Fructosa",
+      "description": "La fructosa es un tipo de azúcar natural que se encuentra en frutas y miel. Es utilizada como edulcorante en muchos productos procesados.",
+      "additional_names": [
+        "Azúcar de Frutas"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Sacarosa",
+      "description": "La sacarosa es un azúcar comúnmente conocido como azúcar de mesa. Se obtiene de la caña de azúcar y la remolacha.",
+      "additional_names": [
+        "Azúcar de Mesa"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Lactosa",
+      "description": "La lactosa es el azúcar natural presente en la leche. Algunas personas son intolerantes a la lactosa y no pueden digerirla adecuadamente.",
+      "additional_names": [
+        "Azúcar de Leche"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Maltosa",
+      "description": "La maltosa es un azúcar que se forma durante la descomposición del almidón. Se encuentra en cereales y productos de malta.",
+      "additional_names": [
+        "Azúcar de Malta"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Aspartame",
+      "description": "El aspartame es un edulcorante artificial sin calorías utilizado en productos dietéticos y bajos en calorías.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Grasas Saturadas",
+      "description": "Las grasas saturadas son grasas sólidas a temperatura ambiente y se encuentran principalmente en alimentos de origen animal. Un consumo excesivo puede aumentar el riesgo de enfermedades cardíacas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Grasas Insaturadas",
+      "description": "Las grasas insaturadas son grasas líquidas a temperatura ambiente y se dividen en monoinsaturadas y poliinsaturadas. Se encuentran en aceites vegetales, aguacates y nueces.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Grasas Trans",
+      "description": "Las grasas trans son grasas insaturadas que han sido modificadas para tener una estructura similar a las grasas saturadas. Se encuentran en alimentos procesados y aumentan el riesgo de enfermedades cardíacas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Carbohidratos",
+      "description": "Los carbohidratos son la principal fuente de energía para el cuerpo. Se encuentran en alimentos como pan, arroz, pasta y frutas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Fósforo",
+      "description": "El fósforo es un mineral esencial para la formación de huesos y dientes, así como para diversas funciones celulares. Se encuentra en alimentos como lácteos, carne y pescado.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Tiamina",
+      "description": "La tiamina, o vitamina B1, es esencial para el metabolismo de los carbohidratos. Se encuentra en alimentos como cereales integrales, legumbres y carne magra.",
+      "additional_names": [
+        "Vitamina B1"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Niacina",
+      "description": "La niacina, o vitamina B3, es importante para el funcionamiento del sistema nervioso y el metabolismo. Se encuentra en alimentos como carne, pescado, nueces y granos enteros.",
+      "additional_names": [
+        "Vitamina B3"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Vitamina B6",
+      "description": "La vitamina B6 es esencial para el desarrollo del cerebro y el sistema inmunológico. Se encuentra en alimentos como plátanos, aves, pescado y papas.",
+      "additional_names": [
+        "Piridoxina"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Cafeína",
+      "description": "La cafeína es un estimulante natural que se encuentra en el café, el té y algunas bebidas energéticas. Puede mejorar el estado de alerta y la concentración.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Azúcar",
+      "description": "El término 'azúcares' se refiere a varios tipos de carbohidratos dulces, incluyendo glucosa, fructosa y sacarosa. Se encuentran en alimentos como dulces, frutas y bebidas azucaradas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Emulsionante",
+      "description": "Los emulsionantes son comúnmente utilizados para crear productos como salsas, aderezos, cremas, lociones y otros productos que requieren la combinación de ingredientes que naturalmente no se mezclan de manera uniforme. Algunos ejemplos de emulsionantes son la lecitina, los mono y diglicéridos, y ciertos ésteres de ácidos grasos.",
+      "additional_names": [
+        "INS 322",
+        "Lecitina"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Colesterol",
+      "description": "El colesterol es un tipo de grasa esencial para la función celular que se encuentra en el cuerpo humano y algunos alimentos. Se clasifica en LDL (colesterol 'malo') y HDL (colesterol 'bueno'), y su equilibrio es crucial para la salud cardiovascular. El exceso de colesterol puede contribuir a enfermedades cardíacas si no se controla adecuadamente.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Alcohol",
+      "description": "El Alcohol etílico (etanol), es una sustancia química presente en bebidas alcohólicas con efectos psicoactivos. Aporta calorías a la dieta, ya que contiene aproximadamente 7 calorías por gramo. Sin embargo, el alcohol no proporciona nutrientes esenciales como vitaminas, minerales o aminoácidos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Sacarina",
+      "description": "Edulcorante artificial no nutritivo utilizado para endulzar alimentos y bebidas sin añadir calorías significativas. Es sustancialmente más dulce que el azúcar común, lo que permite su uso en pequeñas cantidades.",
+      "additional_names": [
+        "INS 955"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Benzonato de sodio",
+      "description": "Conservante utilizado en alimentos y bebidas para prevenir el crecimiento de bacterias, levaduras y mohos. Actúa al acidificar el medio, lo que inhibe la proliferación de microorganismos. Desde el punto de vista nutricional, el benzoato de sodio generalmente no contribuye significativamente a la ingesta calórica, ya que se utiliza en cantidades pequeñas.",
+      "additional_names": [
+        "INS 211"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Benzonato de sodio",
+      "description": "Conservante utilizado en alimentos y bebidas para prevenir el crecimiento de bacterias, levaduras y mohos. Actúa al acidificar el medio, lo que inhibe la proliferación de microorganismos. Desde el punto de vista nutricional, el benzoato de sodio generalmente no contribuye significativamente a la ingesta calórica, ya que se utiliza en cantidades pequeñas.",
+      "additional_names": [
+        "INS 955"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 385",
+      "description": "Conservante para mejorar la estabilidad y preservar el color de algunos productos. Funciona al unirse a iones metálicos. Nutricionalmente, el EDTA no proporciona calorías significativas, ya que se utiliza en pequeñas cantidades. Su papel principal es mejorar la calidad y vida útil de ciertos alimentos procesados.",
+      "additional_names": [
+        "EDTA",
+        "ácido etilendiaminotetraacético"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Sucralosa",
+      "description": "La sucralosa (INS 955) es un edulcorante artificial sin calorías y se utiliza comúnmente como un sustituto del azúcar en productos alimenticios y bebidas. A diferencia del azúcar, la sucralosa no aporta calorías al cuerpo, ya que se elimina del organismo sin ser metabolizada.",
+      "additional_names": [
+        "INS 955"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Jugo de limón",
+      "description": "Líquido extraído de los limones, que son frutas cítricas de pulpa ácida. El jugo se obtiene al exprimir o prensar los limones, liberando el líquido que contiene agua, ácido cítrico y diversos compuestos aromáticos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Ácido Cítrico",
+      "description": "El ácido cítrico (INS 330) es un aditivo alimentario utilizado como regulador de acidez. Se extrae principalmente de frutas cítricas como limones y naranjas. Tiene propiedades ácidas y se utiliza para ajustar el pH en alimentos y bebidas. Además de su función como acidulante, el ácido cítrico también actúa como antioxidante y puede mejorar el sabor y la conservación de los productos.",
+      "additional_names": [
+        "INS 330"
+      ],
+      "rating_level": "good"
+    },
+    {
+      "name": "Sorbato de potasio",
+      "description": "El sorbato de potasio (INS 202) es un conservante utilizado en alimentos para prevenir el crecimiento de hongos y levaduras. Es especialmente efectivo en productos con un pH bajo. Se utiliza comúnmente en productos como panes, productos horneados, salsas y bebidas.",
+      "additional_names": [
+        "INS 202"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "Sulfito amónico",
+      "description": "El caramelo de sulfito amónico (INS 150d) es un colorante alimentario utilizado en la industria para conferir tonalidades marrones a los alimentos. Se produce mediante la reacción de azúcares con sulfito amónico bajo condiciones controladas. Este colorante es común en productos como salsas, aderezos, bebidas gaseosas y productos de confitería.",
+      "additional_names": [
+        "INS 202"
+      ],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 100",
+      "description": "Curcumina: Colorante amarillo natural obtenido de la cúrcuma.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 101",
+      "description": "Riboflavina: Colorante amarillo natural, también conocido como vitamina B2.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 102",
+      "description": "Tartrazina: Colorante amarillo sintético, a menudo utilizado en alimentos procesados.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 103",
+      "description": "Ala Azul Patente V: Colorante azul sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 104",
+      "description": "Amarillo de Quinoleína: Colorante amarillo sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 110",
+      "description": "Amarillo Anaranjado S: Colorante naranja sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 120",
+      "description": "Carmín de Cochinilla: Colorante rojo natural obtenido de la cochinilla.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 122",
+      "description": "Azorrubina: Colorante rojo sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 123",
+      "description": "Amaranto: Colorante rojo sintético, a menudo utilizado en productos cárnicos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 124",
+      "description": "Rojo Cochinilla A: Colorante rojo sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 127",
+      "description": "Eritrosina: Colorante rojo sintético, utilizado en alimentos como gelatinas y dulces.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 129",
+      "description": "Rojo Allura AC: Colorante rojo sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 131",
+      "description": "Azul Patentado V: Colorante azul sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 132",
+      "description": "Índigo Carmín: Colorante azul sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 133",
+      "description": "Azul Brillante FCF: Colorante azul sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 140",
+      "description": "Clorofilinas: Colorante verde derivado de la clorofila.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 141",
+      "description": "Cobre Complejado con Clorofilina: Colorante verde obtenido de la clorofila.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 142",
+      "description": "Verde Ácido Brillante BS: Colorante verde sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 150a",
+      "description": "Caramelo I: Colorante alimentario natural o artificial, utilizado para dar color marrón a los alimentos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 150b",
+      "description": "Caramelo II: Colorante alimentario natural o artificial, similar al INS 150a.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 150c",
+      "description": "Caramelo III: Colorante alimentario natural o artificial, similar al INS 150a.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 150d",
+      "description": "Caramelo IV: Colorante alimentario natural o artificial, similar al INS 150a.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 151",
+      "description": "Negro Brillante BN: Colorante negro sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 153",
+      "description": "Carbón Vegetal: Colorante negro natural obtenido del carbón vegetal.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 154",
+      "description": "Marrón FK: Colorante marrón sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 155",
+      "description": "Marrón HT: Colorante marrón sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 160a",
+      "description": "Carotenos: Colorantes naturales amarillos, naranjas o rojos presentes en frutas y vegetales.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 160b",
+      "description": "Annatto: Colorante amarillo natural obtenido de las semillas de achiote.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 160c",
+      "description": "Extracto de Pimentón: Colorante rojo natural obtenido del pimentón.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 160d",
+      "description": "Licopeno: Colorante rojo natural presente en tomates y sandías.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 160e",
+      "description": "Beta-Apo-8'-Carotenal (C30): Colorante naranja sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 160f",
+      "description": "Ésteres de Beta-Apo-8'-Carotenoico y Beta-Apo-8'-Carotenal (C30): Colorante naranja sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 161b",
+      "description": "Luteína: Colorante amarillo natural presente en vegetales verdes.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 161g",
+      "description": "Criptoxantina: Colorante naranja natural presente en frutas y vegetales.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 162",
+      "description": "Betanina: Colorante rojo natural obtenido de la remolacha.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 163",
+      "description": "Antocianinas: Colorantes rojos, púrpuras o azules presentes en frutas y vegetales.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 170",
+      "description": "Carbonato de Calcio: Regulador de acidez y antiaglomerante.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 171",
+      "description": "Dióxido de Titanio: Pigmento blanco utilizado como colorante y opacificante.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 172",
+      "description": "Óxido de Hierro: Pigmento rojo natural o sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 173",
+      "description": "Óxidos e Hidróxidos de Aluminio: Antiaglomerante, espesante y agente de revestimiento.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 174",
+      "description": "Plata: Colorante plateado utilizado en confitería y pastelería.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 175",
+      "description": "Oro: Colorante dorado utilizado en confitería y pastelería.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 180",
+      "description": "Litol Rubí: Colorante rojo sintético.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 181",
+      "description": "Taumantina: Colorante amarillo natural extraído de la planta de azafrán.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 200",
+      "description": "Ácido Sórbico: Conservante utilizado para prevenir el crecimiento de mohos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 202",
+      "description": "Sorbato de Potasio: Conservante utilizado para prevenir el crecimiento de hongos y levaduras.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 203",
+      "description": "Sorbato de Calcio: Conservante utilizado en productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 204",
+      "description": "Goma Arábica: Estabilizante y espesante natural obtenido de la savia del árbol de acacia.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 210",
+      "description": "Ácido Benzoico: Conservante utilizado para prevenir el crecimiento de levaduras y mohos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 211",
+      "description": "Benzoato de Sodio: Conservante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 212",
+      "description": "Benzoato de Potasio: Conservante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 213",
+      "description": "Benzoato de Calcio: Conservante utilizado en productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 214",
+      "description": "Ésteres de Hidroxianisol Butilado (BHA): Antioxidante sintético utilizado para prevenir la oxidación de los alimentos grasos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 215",
+      "description": "Ésteres de Hidroxitolueno Butilado (BHT): Antioxidante sintético utilizado para prevenir la oxidación de los alimentos grasos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 216",
+      "description": "Propil Galato: Antioxidante sintético utilizado para prevenir la oxidación de los alimentos grasos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 217",
+      "description": "Propil Parabeno: Conservante utilizado en alimentos, cosméticos y productos farmacéuticos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 218",
+      "description": "Methyl Parabeno: Conservante utilizado en alimentos, cosméticos y productos farmacéuticos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 219",
+      "description": "Butyl Parabeno: Conservante utilizado en alimentos, cosméticos y productos farmacéuticos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 220",
+      "description": "Dióxido de Azufre: Conservante y antioxidante utilizado en alimentos como frutas secas y vino.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 221",
+      "description": "Sulfito de Sodio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 222",
+      "description": "Bisulfito de Sodio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 223",
+      "description": "Metabisulfito de Sodio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 224",
+      "description": "Bisulfito de Potasio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 225",
+      "description": "Metabisulfito de Potasio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 226",
+      "description": "Sulfito de Calcio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 227",
+      "description": "Bisulfito de Calcio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 228",
+      "description": "Metabisulfito de Calcio: Conservante utilizado en alimentos para prevenir la oxidación y el crecimiento de bacterias.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 230",
+      "description": "Bifenilo: Antioxidante utilizado en alimentos grasos para prevenir la rancidez.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 231",
+      "description": "Ortofenilo: Antioxidante utilizado en alimentos grasos para prevenir la rancidez.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 232",
+      "description": "Ortofenilfenol: Antioxidante utilizado en alimentos grasos para prevenir la rancidez.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 233",
+      "description": "Tetraborato de Sodio: Conservante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 234",
+      "description": "Nisina: Conservante antimicrobiano natural utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 235",
+      "description": "Natamicina: Conservante antimicrobiano natural utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 236",
+      "description": "Ácido Fumárico: Acidulante y regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 237",
+      "description": "Bicarbonato de Sodio: Regulador de acidez y agente leudante utilizado en productos horneados.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 238",
+      "description": "Bicarbonato de Amonio: Regulador de acidez y agente leudante utilizado en productos horneados.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 239",
+      "description": "Hexametafosfato de Sodio: Agente secuestrante utilizado en alimentos y productos de limpieza.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 240",
+      "description": "Ácido Escárico: Antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 241",
+      "description": "Tartrato de Dihidroxibutilo: Antioxidante utilizado en alimentos grasos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 242",
+      "description": "Dimetildicarbonato: Conservante utilizado en bebidas alcohólicas y no alcohólicas.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 243",
+      "description": "Ácido Metacítrico: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 244",
+      "description": "Ácido Metatartrico: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 245",
+      "description": "Tartrato de Potasio: Estabilizante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 246",
+      "description": "Ácido Fosfatídico: Emulsionante y estabilizante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 260",
+      "description": "Ácido Acético: Regulador de acidez y agente saborizante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 261",
+      "description": "Acetato de Potasio: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 262",
+      "description": "Acetato de Sodio: Regulador de acidez y conservante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 263",
+      "description": "Acetato de Calcio: Regulador de acidez y conservante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 264",
+      "description": "Acetato de Amonio: Regulador de acidez y conservante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 265",
+      "description": "Acetato de Hidroxipropilo: Estabilizante y espesante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 266",
+      "description": "Ácido Ácido Hidroxipropanoico: Estabilizante y emulsionante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 270",
+      "description": "Ácido Láctico: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 280",
+      "description": "Ácido Propiónico: Conservante utilizado en productos de panificación y productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 281",
+      "description": "Propionato de Sodio: Conservante utilizado en productos de panificación y productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 282",
+      "description": "Propionato de Calcio: Conservante utilizado en productos de panificación y productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 283",
+      "description": "Propionato de Potasio: Conservante utilizado en productos de panificación y productos lácteos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 290",
+      "description": "Dióxido de Carbono: Gas utilizado como propulsor y agente carbonatante en bebidas y productos horneados.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 296",
+      "description": "Ácido Málico: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 297",
+      "description": "Ácido Fumárico y Adipico: Acidulante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 300",
+      "description": "Ácido Ascórbico: Antioxidante utilizado en alimentos y bebidas para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 301",
+      "description": "Ácido Ascorbilo: Antioxidante utilizado en alimentos y bebidas para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 302",
+      "description": "Ascórbato de Calcio: Antioxidante utilizado en alimentos y bebidas para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 303",
+      "description": "Ascórbato de Potasio: Antioxidante utilizado en alimentos y bebidas para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 304",
+      "description": "Palmitato de Ascorbilo: Antioxidante utilizado en alimentos y bebidas para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 305",
+      "description": "Tocoferoles: Antioxidante natural utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 306",
+      "description": "Extracto Rico en Tocoferoles: Antioxidante natural utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 307",
+      "description": "Tocoferol: Antioxidante natural utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 308",
+      "description": "Gamma-Tocoferol: Antioxidante natural utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 309",
+      "description": "Delta-Tocoferol: Antioxidante natural utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 310",
+      "description": "Galato de Propilo: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 311",
+      "description": "Galato de Octilo: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 312",
+      "description": "Galato de Dodecilo: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 315",
+      "description": "Ácido Eritórbico: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 316",
+      "description": "Eritorbato de Sodio: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 317",
+      "description": "Eritorbato de Potasio: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 319",
+      "description": "Tert-Butilhidroquinona (TBHQ): Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 320",
+      "description": "Butilhidroxianisol (BHA): Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 321",
+      "description": "Butilhidroxitolueno (BHT): Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 322",
+      "description": "Lecitina: Emulsionante y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 323",
+      "description": "Esteres de Tocoferol de Ácidos Grasos: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 324",
+      "description": "Butilhidroxitolueno: Antioxidante utilizado en alimentos para prevenir la oxidación.",
+      "additional_names": [],
+      "rating_level": "warning"
+    },
+    {
+      "name": "INS 325",
+      "description": "Lactato de Sodio: Regulador de acidez y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 326",
+      "description": "Lactato de Potasio: Regulador de acidez y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 327",
+      "description": "Lactato de Calcio: Regulador de acidez y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 328",
+      "description": "Lactato de Amonio: Regulador de acidez y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 329",
+      "description": "Lactato de Magnesio: Regulador de acidez y antioxidante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 330",
+      "description": "Ácido Cítrico: Regulador de acidez y antioxidante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 331",
+      "description": "Citrato de Sodio: Regulador de acidez y emulsionante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 332",
+      "description": "Citrato de Potasio: Regulador de acidez y emulsionante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 333",
+      "description": "Citrato de Calcio: Regulador de acidez y emulsionante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 334",
+      "description": "Ácido Tartárico: Regulador de acidez y antioxidante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 335",
+      "description": "Tartrato de Sodio: Regulador de acidez y antioxidante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 336",
+      "description": "Tartrato de Potasio: Regulador de acidez y antioxidante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 337",
+      "description": "Tartrato de Amonio: Regulador de acidez y antioxidante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 338",
+      "description": "Ortofosfato de Fosfato de Ácido Sódico: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 339",
+      "description": "Ortofosfato de Fosfato de Ácido Potásico: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 340",
+      "description": "Ortofosfato de Fosfato de Ácido de Calcio: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 341",
+      "description": "Ortofosfato de Fosfato de Ácido de Sodio: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 342",
+      "description": "Ortofosfato de Fosfato de Ácido de Potasio: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 343",
+      "description": "Ortofosfato de Fosfato de Ácido de Amonio: Emulsionante y regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 350",
+      "description": "Malato de Sodio: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 351",
+      "description": "Malato de Potasio: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 352",
+      "description": "Malato de Calcio: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 353",
+      "description": "Ácido Metatártico: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 354",
+      "description": "Tartrato de Calcio: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 355",
+      "description": "Ácido Adípico: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 356",
+      "description": "Ácido Octanoico: Regulador de acidez utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 357",
+      "description": "Ácido Octenil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 358",
+      "description": "Ácido Tetrahexil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 359",
+      "description": "Ácido Adipil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 360",
+      "description": "Ácido Hexil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 361",
+      "description": "Ácido Octil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 362",
+      "description": "Ácido Decil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 363",
+      "description": "Ácido Tetradecil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 364",
+      "description": "Ácido Hexadecil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 365",
+      "description": "Ácido Octadecil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 366",
+      "description": "Ácido Octadecenil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 367",
+      "description": "Ácido Octadecadienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 368",
+      "description": "Ácido Octadecatrienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 369",
+      "description": "Ácido Dodecandienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 370",
+      "description": "Ácido Dioctadecil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 371",
+      "description": "Ácido Octadecil Octadecadienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 372",
+      "description": "Ácido Octadecil Octadecatrienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 373",
+      "description": "Ácido Octadecil Dodecandienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 374",
+      "description": "Ácido Octadecil Tetradecadienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 375",
+      "description": "Ácido Octadecil Tetradecatrienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 376",
+      "description": "Ácido Octadecil Octadecil Succínico:  Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 377",
+      "description": "Ácido Octadecil Octadecadienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 378",
+      "description": "Ácido Octadecil Octadecatrienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 379",
+      "description": "Ácido Octadecil Dodecandienil Succínico: Modificador de almidón utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 380",
+      "description": "Triethyl Citrate: Emulsionante utilizado en alimentos y bebidas.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 381",
+      "description": "Ácido Fosfórico: Regulador de acidez utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 382",
+      "description": "Fosfato de Amonio: Regulador de acidez y agente antiaglomerante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 383",
+      "description": "Fosfato de Calcio: Agente antiaglomerante y fortificante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 384",
+      "description": "Fosfato de Amonio Dibásico: Agente antiaglomerante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "INS 385",
+      "description": "Etidronato: Agente quelante utilizado en alimentos.",
+      "additional_names": [],
+      "rating_level": "warning"
+    }
+  ]
+}
