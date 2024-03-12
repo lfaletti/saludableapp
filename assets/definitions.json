@@ -1521,6 +1521,30 @@
       "description": "Etidronato: Agente quelante utilizado en alimentos.",
       "additional_names": [],
       "rating_level": "warning"
+    },
+    {
+      "name": "Molibdeno",
+      "description": "El molibdeno es un oligoelemento esencial que se encuentra en pequeñas cantidades en el cuerpo humano. Es necesario para varias funciones biológicas. Contribuye a la desintoxicación del cuerpo, especialmente en la eliminación de sulfatos y otros compuestos tóxicos. También es necesario para la síntesis de ciertas enzimas involucradas en el metabolismo de los aminoácidos.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Cobre",
+      "description": "El cobre es un oligoelemento esencial para el funcionamiento adecuado del cuerpo humano. Se encuentra en varios alimentos y es necesario en pequeñas cantidades para mantener la salud. Contribuye a la formación de tejido conectivo, la absorción de hierro, el funcionamiento del sistema nervioso central y la producción de energía. También actúa como antioxidante, ayudando a proteger las células del daño causado por los radicales libres.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Manganeso",
+      "description": "El manganeso es un oligoelemento que desempeña varias funciones en el cuerpo humano. Se encuentra en alimentos como nueces, granos enteros y verduras de hoja verde. Es esencial para el metabolismo de los carbohidratos, las proteínas y los lípidos. También juega un papel importante en la formación de huesos y tejidos conectivos, así como en la función antioxidante y en la regulación del azúcar en la sangre.",
+      "additional_names": [],
+      "rating_level": "good"
+    },
+    {
+      "name": "Omega 9",
+      "description": "Los ácidos grasos omega 9 son ácidos grasos monoinsaturados que se encuentran en ciertos alimentos y aceites vegetales, como el aceite de oliva y el aceite de canola. Son beneficiosos para la salud cardiovascular, ya que pueden ayudar a reducir los niveles de colesterol LDL (colesterol 'malo') y aumentar los niveles de colesterol HDL (colesterol 'bueno'). También pueden tener propiedades antiinflamatorias y contribuir a la salud de la piel y el cabello.",
+      "additional_names": [],
+      "rating_level": "good"
     }
   ]
 }

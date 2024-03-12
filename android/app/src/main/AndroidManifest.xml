@@ -11,7 +11,7 @@
     </queries>
 
     <application
-        android:label="SaludableApp"
+        android:label="Saludable App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

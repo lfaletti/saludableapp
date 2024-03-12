@@ -152,6 +152,7 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
               child: const Text(
                 'Escanee un producto para obtener informacion sobre los ingredientes. Procure contar con buena luz y enfocar adecuadamente. La app identifica ingredientes pero debe evaluar las cantidades por su cuenta.',
                 textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 16.0),
               ),
             ),
             Expanded(
